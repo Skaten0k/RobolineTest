@@ -1,0 +1,15 @@
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\bin\Release\net8.0\Services.Interfaces.deps.json
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\bin\Release\net8.0\Services.Interfaces.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\bin\Release\net8.0\Services.Interfaces.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\bin\Release\net8.0\RobolineTest.Domain.Core.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\bin\Release\net8.0\RobolineTest.Domain.Core.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\Services.Interfaces.csproj.AssemblyReference.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\Services.Interfaces.AssemblyInfo.cs
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\Services.4933342D.Up2Date
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\Services.Interfaces.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\refint\Services.Interfaces.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\Services.Interfaces.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Services.Interfaces\obj\Release\net8.0\ref\Services.Interfaces.dll

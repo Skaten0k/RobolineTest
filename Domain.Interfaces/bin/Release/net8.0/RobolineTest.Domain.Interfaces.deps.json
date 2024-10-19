@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RobolineTest.Domain.Interfaces/1.0.0": {
+        "dependencies": {
+          "RobolineTest.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "RobolineTest.Domain.Interfaces.dll": {}
+        }
+      },
+      "RobolineTest.Domain.Core/1.0.0": {
+        "runtime": {
+          "RobolineTest.Domain.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RobolineTest.Domain.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RobolineTest.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

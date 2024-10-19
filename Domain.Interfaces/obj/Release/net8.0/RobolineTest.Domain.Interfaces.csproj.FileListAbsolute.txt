@@ -1,0 +1,15 @@
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\bin\Release\net8.0\RobolineTest.Domain.Interfaces.deps.json
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\bin\Release\net8.0\RobolineTest.Domain.Interfaces.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\bin\Release\net8.0\RobolineTest.Domain.Interfaces.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\bin\Release\net8.0\RobolineTest.Domain.Core.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\bin\Release\net8.0\RobolineTest.Domain.Core.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\RobolineTest.Domain.Interfaces.csproj.AssemblyReference.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\RobolineTest.Domain.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\RobolineTest.Domain.Interfaces.AssemblyInfoInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\RobolineTest.Domain.Interfaces.AssemblyInfo.cs
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\RobolineTest.Domain.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\Roboline.23A54933.Up2Date
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\RobolineTest.Domain.Interfaces.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\refint\RobolineTest.Domain.Interfaces.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\RobolineTest.Domain.Interfaces.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Interfaces\obj\Release\net8.0\ref\RobolineTest.Domain.Interfaces.dll

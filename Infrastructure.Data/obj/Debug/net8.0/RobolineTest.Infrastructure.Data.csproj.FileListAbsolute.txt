@@ -1,0 +1,17 @@
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\bin\Debug\net8.0\RobolineTest.Infrastructure.Data.deps.json
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\bin\Debug\net8.0\RobolineTest.Infrastructure.Data.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\bin\Debug\net8.0\RobolineTest.Infrastructure.Data.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\bin\Debug\net8.0\RobolineTest.Domain.Core.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\bin\Debug\net8.0\RobolineTest.Domain.Interfaces.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\bin\Debug\net8.0\RobolineTest.Domain.Core.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\bin\Debug\net8.0\RobolineTest.Domain.Interfaces.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\RobolineTest.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\RobolineTest.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\RobolineTest.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\RobolineTest.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\RobolineTest.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\Roboline.72131B2A.Up2Date
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\RobolineTest.Infrastructure.Data.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\refint\RobolineTest.Infrastructure.Data.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\RobolineTest.Infrastructure.Data.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Infrastructure.Data\obj\Debug\net8.0\ref\RobolineTest.Infrastructure.Data.dll

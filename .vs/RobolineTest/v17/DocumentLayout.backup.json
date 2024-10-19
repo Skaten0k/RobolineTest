@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\robolinetest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|solutionrelative:robolinetest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\robolinetest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|solutionrelative:robolinetest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\robolinetest.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|solutionrelative:robolinetest.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\robolinetest.api\\robolinetest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|solutionrelative:robolinetest.api\\robolinetest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\robolinetest.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|solutionrelative:robolinetest.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\robolinetest.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B053569-8970-46CB-95BC-ED319B14E141}|RobolineTest.API\\RobolineTest.API.csproj|solutionrelative:robolinetest.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3DE54B-C04F-4594-994B-0C083F87AD5B}|Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\infrastructure.data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3DE54B-C04F-4594-994B-0C083F87AD5B}|Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj|solutionrelative:infrastructure.data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591CCA04-B7C8-4880-89C8-4C7D5AAFBCFD}|Domain.Interfaces\\RobolineTest.Domain.Interfaces.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\domain.interfaces\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591CCA04-B7C8-4880-89C8-4C7D5AAFBCFD}|Domain.Interfaces\\RobolineTest.Domain.Interfaces.csproj|solutionrelative:domain.interfaces\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3DE54B-C04F-4594-994B-0C083F87AD5B}|Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\infrastructure.data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3DE54B-C04F-4594-994B-0C083F87AD5B}|Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj|solutionrelative:infrastructure.data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA49D33-AE5D-4E75-BA00-24D38E1DC350}|Services.Interfaces\\Services.Interfaces.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\services.interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA49D33-AE5D-4E75-BA00-24D38E1DC350}|Services.Interfaces\\Services.Interfaces.csproj|solutionrelative:services.interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E76EB-6EBA-4B6E-B6CB-C1FCC09AAC5C}|Sevices\\Sevices.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\sevices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5E76EB-6EBA-4B6E-B6CB-C1FCC09AAC5C}|Sevices\\Sevices.csproj|solutionrelative:sevices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E76EB-6EBA-4B6E-B6CB-C1FCC09AAC5C}|Sevices\\Sevices.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\sevices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5E76EB-6EBA-4B6E-B6CB-C1FCC09AAC5C}|Sevices\\Sevices.csproj|solutionrelative:sevices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3DE54B-C04F-4594-994B-0C083F87AD5B}|Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\infrastructure.data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3DE54B-C04F-4594-994B-0C083F87AD5B}|Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj|solutionrelative:infrastructure.data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C1F74-D97C-44A4-A4A8-F60D603D3A1F}|Domain.Core\\RobolineTest.Domain.Core.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\domain.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C1F74-D97C-44A4-A4A8-F60D603D3A1F}|Domain.Core\\RobolineTest.Domain.Core.csproj|solutionrelative:domain.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C1F74-D97C-44A4-A4A8-F60D603D3A1F}|Domain.Core\\RobolineTest.Domain.Core.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\domain.core\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C1F74-D97C-44A4-A4A8-F60D603D3A1F}|Domain.Core\\RobolineTest.Domain.Core.csproj|solutionrelative:domain.core\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591CCA04-B7C8-4880-89C8-4C7D5AAFBCFD}|Domain.Interfaces\\RobolineTest.Domain.Interfaces.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\domain.interfaces\\robolinetest.domain.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{591CCA04-B7C8-4880-89C8-4C7D5AAFBCFD}|Domain.Interfaces\\RobolineTest.Domain.Interfaces.csproj|solutionrelative:domain.interfaces\\robolinetest.domain.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3DE54B-C04F-4594-994B-0C083F87AD5B}|Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\infrastructure.data\\robolinetest.infrastructure.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C3DE54B-C04F-4594-994B-0C083F87AD5B}|Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj|solutionrelative:infrastructure.data\\robolinetest.infrastructure.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C1F74-D97C-44A4-A4A8-F60D603D3A1F}|Domain.Core\\RobolineTest.Domain.Core.csproj|c:\\users\\xarra\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\robolinetest\\robolinetest\\domain.core\\robolinetest.domain.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F81C1F74-D97C-44A4-A4A8-F60D603D3A1F}|Domain.Core\\RobolineTest.Domain.Core.csproj|solutionrelative:domain.core\\robolinetest.domain.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RobolineTest.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RobolineTest.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T17:40:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\Program.cs",
+              "RelativeDocumentMoniker": "RobolineTest.API\\Program.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\Program.cs",
+              "RelativeToolTip": "RobolineTest.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:30:14.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Sevices\\ProductService.cs",
+              "RelativeDocumentMoniker": "Sevices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Sevices\\ProductService.cs",
+              "RelativeToolTip": "Sevices\\ProductService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:21:41.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Sevices\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Sevices\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Sevices\\CategoryService.cs",
+              "RelativeToolTip": "Sevices\\CategoryService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:42:58.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "RobolineTest.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "RobolineTest.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:42:15.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RobolineTest.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RobolineTest.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:35:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Infrastructure.Data\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Infrastructure.Data\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure.Data\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:34:31.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RobolineTest.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\appsettings.json",
+              "RelativeToolTip": "RobolineTest.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T10:36:08.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RobolineTest.API.csproj",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\RobolineTest.API.csproj",
+              "RelativeDocumentMoniker": "RobolineTest.API\\RobolineTest.API.csproj",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\RobolineTest.API\\RobolineTest.API.csproj",
+              "RelativeToolTip": "RobolineTest.API\\RobolineTest.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T16:25:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Infrastructure.Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Infrastructure.Data\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure.Data\\ProductRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:26:57.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Services.Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services.Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Services.Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Services.Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:08:23.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Interfaces\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Domain.Interfaces\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Interfaces\\Interfaces.cs",
+              "RelativeToolTip": "Domain.Interfaces\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:16:06.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Infrastructure.Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Infrastructure.Data\\ProductContext.cs",
+              "RelativeToolTip": "Infrastructure.Data\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:26:58.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Core\\Product.cs",
+              "RelativeDocumentMoniker": "Domain.Core\\Product.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Core\\Product.cs",
+              "RelativeToolTip": "Domain.Core\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:16:40.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Core\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Domain.Core\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Core\\ProductCategory.cs",
+              "RelativeToolTip": "Domain.Core\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:16:41.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RobolineTest.Infrastructure.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj",
+              "RelativeToolTip": "Infrastructure.Data\\RobolineTest.Infrastructure.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T18:23:07.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RobolineTest.Domain.Interfaces.csproj",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Interfaces\\RobolineTest.Domain.Interfaces.csproj",
+              "RelativeDocumentMoniker": "Domain.Interfaces\\RobolineTest.Domain.Interfaces.csproj",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Interfaces\\RobolineTest.Domain.Interfaces.csproj",
+              "RelativeToolTip": "Domain.Interfaces\\RobolineTest.Domain.Interfaces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T18:15:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RobolineTest.Domain.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Core\\RobolineTest.Domain.Core.csproj",
+              "RelativeDocumentMoniker": "Domain.Core\\RobolineTest.Domain.Core.csproj",
+              "ToolTip": "C:\\Users\\xarra\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RobolineTest\\RobolineTest\\Domain.Core\\RobolineTest.Domain.Core.csproj",
+              "RelativeToolTip": "Domain.Core\\RobolineTest.Domain.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T18:13:57.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

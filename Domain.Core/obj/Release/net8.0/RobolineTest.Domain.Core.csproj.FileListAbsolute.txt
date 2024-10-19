@@ -1,0 +1,11 @@
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\bin\Release\net8.0\RobolineTest.Domain.Core.deps.json
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\bin\Release\net8.0\RobolineTest.Domain.Core.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\bin\Release\net8.0\RobolineTest.Domain.Core.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\obj\Release\net8.0\RobolineTest.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\obj\Release\net8.0\RobolineTest.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\obj\Release\net8.0\RobolineTest.Domain.Core.AssemblyInfo.cs
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\obj\Release\net8.0\RobolineTest.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\obj\Release\net8.0\RobolineTest.Domain.Core.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\obj\Release\net8.0\refint\RobolineTest.Domain.Core.dll
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\obj\Release\net8.0\RobolineTest.Domain.Core.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\RobolineTest\RobolineTest\Domain.Core\obj\Release\net8.0\ref\RobolineTest.Domain.Core.dll
